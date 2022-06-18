@@ -9,7 +9,7 @@ Electronic lock with keypad
 1. #كتاب_عالم_الاردوينو
 2. #كتاب_عالم_الآردوينو
 
-* facebook : https://www.facebook.com/profile.php?id=100002145048612-
+* facebook : https://www.facebook.com/profile.php?id=100002145048612
 * instagram:  https://www.instagram.com/farkadadnan/
 * linkedin : https://www.linkedin.com/in/farkad-adnan-499972121/
 
